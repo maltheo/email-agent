@@ -16,6 +16,6 @@ wheels/
 .env
 .env.local
 !*.example
-client_secret_*.json
+client_secret.json
 credentials.json
 token.json
