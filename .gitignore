@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# ADK session files
+.adk/
+
+# Virtual environments
+.venv/
+
+# Sensitive files
+.env
+.env.local
+!*.example
+client_secret_*.json
+credentials.json
+token.json
